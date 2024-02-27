@@ -1,11 +1,19 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+<div>
+<img align="center" src="https://i.imgur.com/4ASafy0.png">
+</div>
 
-## 🚀 About Me
+<h3 align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Welcome to my profile
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-🎓 I am Harshvardhan Rathore, a **Software Engineer**. I am also pursuing my Bachelor's in **Chemical Engineering** and will graduate in mid-2024 from Sardar Vallbhbhai National Institute of Technology, Surat. 👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to Hacktoberfest. I also enjoy Developing projects and have participated in several contests.
+<h1 align="center"> Hi, I am Harshvardhan! Great to see you here! :wave: </h1>
+🎓 I am a **Software Engineer. I am also pursuing my Bachelor's in **Chemical Engineering** and will graduate in mid-2024 from Sardar Vallbhbhai National Institute of Technology, Surat. 👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to Hacktoberfest. I also enjoy Developing projects and have participated in several contests.
+<br/>
+<br/>
 
 <div align="center">   
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=harshvardhan614.harshvardhan614" alt="visitors">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=harshvardhan614.harshvardhan614" alt="visitors" height="27px" width"="auto">
 </div>
 
 ## 🛠️ Skills
@@ -27,7 +35,7 @@
 ![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Cross Platform Development
+### Cross-Platform Development
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
@@ -46,8 +54,9 @@
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=harshvardhan614&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
     <br />
-  <br/>
-     <img src="https://github-readme-stats.vercel.app/api?username=harshvardhan614&show_icons=true&hide_border=true&theme=dark&private=true" alt="Harshvardhan's GitHub Stats">  
+  <br/>     
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=harshvardhan614&show_icons=true&theme=onedark&private=true" /> 
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshvardhan614&show_icons=true&theme=onedark&private=true" />
 </div>
 
 
@@ -55,4 +64,4 @@
 
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/harshvardhan614/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/harshvardhan614)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rharshvardhan614@gmail.com)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:harshvardhan.omnisphere@gmail.com)
