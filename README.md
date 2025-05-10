@@ -8,7 +8,7 @@
 </h3>
 
 <h1 align="center"> Hi, I am Harshvardhan! Great to see you here! :wave: </h1>
-🎓 I am a **Software Engineer. I am also pursuing my Bachelor's in **Chemical Engineering** and will graduate in mid-2024 from Sardar Vallbhbhai National Institute of Technology, Surat. 👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to Hacktoberfest. I also enjoy Developing projects and have participated in several contests.
+🎓 I'm a Batch'24 pass out with a Bachelor of Technology degree from Sardar Vallabhbhai National Institute of Technology (NIT Surat). I am a Software Developer & UX/UI Designer, building user-friendly interfaces and crafting top-notch Software applications from scratch.
 <br/>
 <br/>
 
